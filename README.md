@@ -59,11 +59,5 @@ When not at the terminal: rock climbing, chasing mountain trails, and photograph
 ### GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AntreasPetsas&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=F97316&text_color=94A3B8&bg_color=0F172A" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntreasPetsas&layout=compact&hide_border=true&title_color=3B82F6&text_color=94A3B8&bg_color=0F172A&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AntreasPetsas&hide_border=true&background=0F172A&ring=3B82F6&fire=F97316&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=475569" />
+  <img src="https://streak-stats.demolab.com/?user=AntreasPetsas&theme=github-dark&hide_border=true&background=0F172A&ring=3B82F6&fire=F97316" />
 </p>
