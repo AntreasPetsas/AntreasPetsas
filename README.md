@@ -49,10 +49,14 @@ When not at the terminal: rock climbing, chasing mountain trails, and photograph
 
 | Project | Stack | Status |
 |---|---|---|
-| [Personal Portfolio](https://andreaspetsas.com/projects/portfolio) | Next.js · Tailwind | Live |
-| [DevKit — Developer Utilities](https://andreaspetsas.com/projects/devkit) | Next.js · Web APIs | Live |
-| [AI Weekly News Digest](https://andreaspetsas.com/projects/n8n-ai-powered-news-digest) | n8n · Claude API | Live |
-| Cyprus Activities Guide | Next.js · Maps | Coming soon |
+| [DevKit — Developer Utilities](https://andreaspetsas.com/professional/projects/devkit) | Next.js · Web APIs | Live |
+| [Weekly News Digest](https://andreaspetsas.com/professional/projects/n8n-ai-powered-news-digest) | n8n · Claude API | Live |
+| [Wodmark](https://andreaspetsas.com/professional/projects/wodmark) | React · TypeScript | Building |
+| [Smart Todo](https://andreaspetsas.com/professional/projects/smart-todo) | Next.js · FastAPI | Building |
+| [Jarvis](https://andreaspetsas.com/professional/projects/jarvis) | Python · Ollama | Prototype |
+| [Kern](https://andreaspetsas.com/professional/projects/kern) | Style Dictionary · React | Prototype |
+| [Ebook Pipeline](https://andreaspetsas.com/professional/projects/ebook-pipeline) | Python · Claude API | Prototype |
+| Anasa — Cyprus Activities Guide | Next.js · Maps | Private |
 
 ---
 
