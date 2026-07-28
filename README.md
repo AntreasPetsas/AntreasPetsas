@@ -12,7 +12,7 @@ Senior Full Stack Engineer &nbsp;·&nbsp; Cyprus &nbsp;·&nbsp; <em>occasionally
 
 ---
 
-4+ years building scalable applications across enterprise and fintech. My core is **.NET + React**, with a growing focus on **frontend craft** and engineering with AI — figuring out what it means to work *with* LLMs rather than just call their APIs.
+4+ years shipping **.NET + React** across fintech and enterprise teams, with a growing focus on **frontend craft** and engineering with AI — figuring out what it means to work *with* LLMs rather than just call their APIs.
 
 When not at the terminal: rock climbing, chasing mountain trails, and photographing things I had no business hauling a camera to.
 
